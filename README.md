@@ -4,7 +4,7 @@ This Software helps you to Promote your Bussiness or Website by Email Marketing.
 
 It is Open Source Software Created by Rox Studio Developer for Email Marketing.
 
-# How to use Send Email using Bully Mail
+# How to Send Email using Bully Mail
 1.Download Latest Version of Bully Mail
 
 2.just Open it
